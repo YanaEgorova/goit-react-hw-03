@@ -1,0 +1,23 @@
+.form {
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    padding: 10px 10px 10px 0;
+}
+.block {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    width: 100%;
+}
+.input {
+    padding:  5px;
+}
+.button {
+        background-color: lightgray;
+     border: 2px solid gray;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
